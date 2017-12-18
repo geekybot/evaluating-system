@@ -1,0 +1,11 @@
+"0xca35b7d915458ef540ade6068dfe2f44e8fa733c","RB","Blockchain",1500,"utpal"
+
+"0x14723a09acff6d2a60dcdf7aa4aff308fddc160c","UTP","utpal"
+
+"0x14723a09acff6d2a60dcdf7aa4aff308fddc160c","Blockchain is a beast","Blockchain"
+
+
+
+
+
+geth --datadir evaluation --maxpeers 0 --nodiscover --networkid 9046 --rpc --rpcapi "db,eth,web3,net,personal" --rpccorsdomain="*" console
